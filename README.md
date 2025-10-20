@@ -37,11 +37,10 @@ L’ensemble du projet (contexte, livrables, analyses, et résultats) est détai
 
 https://corentin-cartallier.gitbook.io/projet-traitement-de-signal/
 
-## Auteur
-Projet réalisé par Corentin Cartallier – Étudiant en ingénierie informatique et cybersécurité au CESI Nice.
-Rôle : Chef de projet – coordination de l’équipe, modélisation de la chaîne de transmission, conception du POC Python.
+## Auteurs
+Projet réalisé par l'équipe composée de : Corentin Cartallier,Hatim Haddou ,Olivier Rousseau  – Étudiants en ingénierie informatique et cybersécurité au CESI Nice.
 
 🏁 Conclusion
-Ce projet m’a permis d’allier physique, informatique et créativité, en développant une solution scientifiquement viable et entièrement simulée.
+Ce projet nous a permis d’allier physique, informatique et créativité, en développant une solution scientifiquement viable et entièrement simulée.
 Il illustre concrètement la puissance du traitement numérique du signal dans des scénarios innovants de communication sans réseau.
 
